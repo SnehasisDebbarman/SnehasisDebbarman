@@ -2,7 +2,7 @@
 
 **Software Developer · Frontend Developer**  
 📞 9647149128 | ✉️ [snehasisdebbarman2016@gmail.com](mailto:snehasisdebbarman2016@gmail.com)  
-[GitHub](https://github.com/SnehasisDebbarman) | [LinkedIn](https://www.linkedin.com/in/snehasis-debbarman)  |[portfolio](https://snehasisdebbarman.github.io/portfolio-react/)
+[GitHub](https://github.com/SnehasisDebbarman) | [LinkedIn](https://www.linkedin.com/in/snehasis-debbarman)  | [Portfolio](https://snehasisdebbarman.github.io/portfolio-react/)
 
 ---
 
