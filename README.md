@@ -74,9 +74,10 @@ CGPA: 8.53
 
 - [UNO Bank](https://uno.bank)
 - [Google Keep Clone](https://snehasisdebbarman.github.io/google-keep-clone/)
+- [portfolio](https://snehasisdebbarman.github.io/portfolio-react/)
 
 ---
 
 _Last Updated: August 20, 2024_
 
-Check out my portfolio Website -https://snehasisdebbarman.github.io/portfolio-react/
+
