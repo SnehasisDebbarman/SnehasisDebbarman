@@ -18,9 +18,18 @@
 
 ## 💼 Work Experience
 
+### Publicis Sapient, Bengaluru, India  
+**Senior Experience Engineer**  
+*Apr 2025 – Present*
+
+- Working on **Carnival PLC** project as a Frontend Developer.
+- Built scalable interfaces using **Next.js**, **Tailwind CSS**, and **Storybook**.
+- Contributed to **Microfrontend architecture**, enabling modular deployments.
+- Integrated with **Adobe Experience Manager (AEM)** for dynamic content rendering.
+
 ### Unovators Tech Private Limited, Kolkata, India  
 **Associate Software Developer**  
-*2023 - Current*
+*2023 - 2025*
 
 - Implemented a real-time customer messaging service using WebSocket in React Native, boosting user engagement by 25% and reducing response times by 40%.
 - Co-created the Philippines Central Bank’s Excel to XML converter using React, Electron, and TypeScript, streamlining data processing and cutting manual efforts by 50%.
@@ -45,7 +54,7 @@
 
 ### UNO CRM App, Kolkata, India  
 **UNO Project**  
-*05/2023 - Current*
+*05/2023 - 04/2025*
 
 - Engineered the UNO CRM App using React, Redux, and WebSocket, supporting over 5,000 transactions daily with real-time updates.
 - Developed a card delivery tracking system, improving accuracy by 35%.
@@ -78,6 +87,4 @@ CGPA: 8.53
 
 ---
 
-_Last Updated: August 20, 2024_
-
-
+_Last Updated: June 15, 2025_
